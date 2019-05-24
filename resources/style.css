@@ -1,0 +1,45 @@
+h1{
+  text-align: center;
+  color: Khaki;
+  font-size: 100px;
+  font-weight: bold;
+  font-family: Helvetica;
+  background-image: url(https://s3.amazonaws.com/dasmotos-arts-and-crafts-taufiq-exercise/gambar/pattern.jpeg);
+}
+
+.Brushes{
+  font-family: Helvetica;
+  font-size: 32px;
+  background-color: mediumspringgreen;
+  font-weight: bold;
+  color: White;
+}
+.Frames{
+  font-family: Helvetica;
+  font-size: 32px;
+  background-color: lightcoral;
+  font-weight: bold;
+  color: White;
+}
+.Paint{
+  font-family: Helvetica;
+  font-size: 32px;
+  background-color: skyblue;
+  font-weight: bold;
+  color: White;
+}
+.brush{
+  font-family: Helvetica;
+  font-weight: bold;
+  color: blue;
+}
+.frame{
+  font-family: Helvetica;
+  font-weight: bold;
+  color: blue;
+}
+.tube{
+  font-family: Helvetica;
+  font-weight: bold;
+  color: blue;
+}
